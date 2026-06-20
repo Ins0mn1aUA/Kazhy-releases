@@ -1,10 +1,10 @@
-# Vymova
+# Kazhy
 
 macOS menu bar app for voice-to-text using local AI.
 
 ## Download
 
-[Latest Release](https://github.com/Ins0mn1aUA/Vymova-releases/releases/latest)
+[Latest Release](https://github.com/Ins0mn1aUA/Kazhy-releases/releases/latest)
 
 ## Features
 
@@ -25,11 +25,11 @@ macOS menu bar app for voice-to-text using local AI.
 
 ## Installation
 
-1. Download `.dmg` from [Releases](https://github.com/Ins0mn1aUA/Vymova-releases/releases)
-2. Drag Vymova to Applications
+1. Download `.dmg` from [Releases](https://github.com/Ins0mn1aUA/Kazhy-releases/releases)
+2. Drag Kazhy to Applications
 3. Remove quarantine (required on macOS 15+):
    ```bash
-   xattr -cr /Applications/Vymova.app
+   xattr -cr /Applications/Kazhy.app
    ```
 4. Grant **Microphone** and **Accessibility** permissions
 
