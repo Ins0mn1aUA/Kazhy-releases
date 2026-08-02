@@ -5,7 +5,20 @@
         <link>https://github.com/Ins0mn1aUA/WhisperMe-releases</link>
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
-                <item>
+                        <item>
+            <title>Version 1.0.2</title>
+            <pubDate>Sun, 02 Aug 2026 23:56:20 +0300</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p><b>Sign-in now shows kazhy.app.</b> The macOS dialog that appears when you sign in with Google or Apple used to name a long, random-looking database address &mdash; the kind of thing you should not approve. It now names <code>auth.kazhy.app</code>.</p><p>Sign-in itself is unchanged and still takes one click.</p>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.0.2.dmg"
+                sparkle:edSignature="9UvRUOIIM6eT7I8hdHQVO7VnHzsWJrpAewXe00SFpAZmCddUul7TS8egHhYZBrg403lqjQU25eeq+SIafqTzCA=="
+                length="13613535"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <pubDate>Sun, 02 Aug 2026 22:49:33 +0300</pubDate>
             <sparkle:version>1.0.1</sparkle:version>
@@ -27,17 +40,6 @@
                 url="https://github.com/Ins0mn1aUA/WhisperMe-releases/releases/download/v0.5.5/WhisperMe-0.5.5.dmg"
                 sparkle:edSignature="S/IAgpnRRyXmtzmM2hCOIEcL1W/eX33z1CD5lC2DX+z+gUtzNovIVivqm2r0BhxnKKmefHxsw8579+9JLBfHDg=="
                 length="2852477"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 0.5.0</title>
-            <pubDate>Fri, 10 Apr 2026 21:14:35 +0300</pubDate>
-            <sparkle:version>0.5.0</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
-            <enclosure
-                url="https://github.com/Ins0mn1aUA/WhisperMe-releases/releases/download/v0.5.0/WhisperMe-0.5.0.dmg"
-                sparkle:edSignature="2bscbMUyEkUPwYfMReVxcBNr2/DgynMpsoXyJ9D8LEid6MJ4k28rmK9aFpbFU785au4P4UOs0QzR4qXlWiLgDg=="
-                length="3798491"
                 type="application/octet-stream"/>
         </item>
     </channel>
