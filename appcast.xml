@@ -6,16 +6,16 @@
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
                 <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Sun, 02 Aug 2026 21:25:52 +0300</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>Version 1.0.1</title>
+            <pubDate>Sun, 02 Aug 2026 22:49:33 +0300</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>Kazhy Cloud</b> — cloud transcription: more accurate and faster than the local models, with no large model on disk. Clips up to 10 minutes. Any cloud failure falls back to the local model automatically, so offline keeps working exactly as before.</li><li><b>AI Styles</b> — the transcript goes through an LLM and comes out in the shape you want: clean speech, an email, a note, or your own prompt.</li><li><b>Accounts and subscriptions</b> — sign in with Google or Apple, a Premium plan, and subscription management inside the app.</li><li><b>A full visual redesign</b> — the new Chroma system across every window: settings, history, styles, onboarding.</li><li><b>Quick Access</b> — a capsule next to the cursor: menu on hover, and adding words to the dictionary on the fly.</li><li><b>History</b> — play back the source audio, restyle a recording, folders, and a trash with deferred deletion.</li><li><b>Silence filtering</b> — a speech detector drops accidental key presses before anything is sent, and a hallucination filter removes the phrases Whisper invents on silence. Works both locally and in the cloud.</li></ul><p><b>Upgrading from a pre-1.0 build?</b> You will have to grant Accessibility again. macOS ties that permission to the code signature, and moving from ad-hoc signing to Developer ID changes it.</p>]]></description>
+            <description><![CDATA[<p>Fixes a crash on launch. 1.0.0 quit immediately on startup instead of opening — if nothing happened when you opened Kazhy, this release fixes it. Re-download and replace the app; no settings are lost.</p>]]></description>
             <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.0.0.dmg"
-                sparkle:edSignature="FBC7GUf+0Cbjx5cSQuwo2ckvMrsqnIxrM7jeaTUi2FJHLdFUHszvAPkYtUQLf4ltB3ChPnP02I8KfUtf4RI2DA=="
-                length="13608155"
+                url="https://kazhy.app/downloads/Kazhy-1.0.1.dmg"
+                sparkle:edSignature="zA8Xcp5Ze4hAmjVnUPH/hceER/vLNJVmWmv6sNs3+nU5+7s9fNwoCWlxF/+1IvsrO12yq53wso3RBEtT4yRgAQ=="
+                length="13612911"
                 type="application/octet-stream"/>
         </item>
         <item>
