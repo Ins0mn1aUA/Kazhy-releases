@@ -5,6 +5,19 @@
         <link>https://github.com/Ins0mn1aUA/WhisperMe-releases</link>
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
+                <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Sun, 02 Aug 2026 21:25:52 +0300</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Kazhy Cloud</b> — cloud transcription: more accurate and faster than the local models, with no large model on disk. Clips up to 10 minutes. Any cloud failure falls back to the local model automatically, so offline keeps working exactly as before.</li><li><b>AI Styles</b> — the transcript goes through an LLM and comes out in the shape you want: clean speech, an email, a note, or your own prompt.</li><li><b>Accounts and subscriptions</b> — sign in with Google or Apple, a Premium plan, and subscription management inside the app.</li><li><b>A full visual redesign</b> — the new Chroma system across every window: settings, history, styles, onboarding.</li><li><b>Quick Access</b> — a capsule next to the cursor: menu on hover, and adding words to the dictionary on the fly.</li><li><b>History</b> — play back the source audio, restyle a recording, folders, and a trash with deferred deletion.</li><li><b>Silence filtering</b> — a speech detector drops accidental key presses before anything is sent, and a hallucination filter removes the phrases Whisper invents on silence. Works both locally and in the cloud.</li></ul><p><b>Upgrading from a pre-1.0 build?</b> You will have to grant Accessibility again. macOS ties that permission to the code signature, and moving from ad-hoc signing to Developer ID changes it.</p>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.0.0.dmg"
+                sparkle:edSignature="FBC7GUf+0Cbjx5cSQuwo2ckvMrsqnIxrM7jeaTUi2FJHLdFUHszvAPkYtUQLf4ltB3ChPnP02I8KfUtf4RI2DA=="
+                length="13608155"
+                type="application/octet-stream"/>
+        </item>
         <item>
             <title>Version 0.5.5</title>
             <pubDate>Sat, 11 Apr 2026 01:59:23 +0300</pubDate>
@@ -25,17 +38,6 @@
                 url="https://github.com/Ins0mn1aUA/WhisperMe-releases/releases/download/v0.5.0/WhisperMe-0.5.0.dmg"
                 sparkle:edSignature="2bscbMUyEkUPwYfMReVxcBNr2/DgynMpsoXyJ9D8LEid6MJ4k28rmK9aFpbFU785au4P4UOs0QzR4qXlWiLgDg=="
                 length="3798491"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 0.4.0</title>
-            <pubDate>Fri, 27 Mar 2026 00:25:42 +0200</pubDate>
-            <sparkle:version>0.4.0</sparkle:version>
-            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
-            <enclosure
-                url="https://github.com/Ins0mn1aUA/WhisperMe-releases/releases/download/v0.4.0/WhisperMe-0.4.0.dmg"
-                sparkle:edSignature="ymb3LlPytzEFI8dzfv+3FrfMha+r0h9FgLktRIg+Oy0VvOAiSz4HwWL/1/0Hy6FXJgT+wv44pc+nIqyaFJ9aDw=="
-                length="2943541"
                 type="application/octet-stream"/>
         </item>
     </channel>
