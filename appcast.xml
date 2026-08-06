@@ -5,7 +5,20 @@
         <link>https://github.com/Ins0mn1aUA/WhisperMe-releases</link>
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
-                        <item>
+                                <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Thu, 06 Aug 2026 13:50:57 +0300</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Your first week is full Premium.</b> Cloud transcription and AI Styles for seven days after you sign in. No card.</li><li><b>Free gives more.</b> 1000 words a day, your full history, and custom vocabulary — all three used to be limited or Premium-only.</li><li><b>AI Styles keep your words.</b> They no longer swap a word for a synonym, drop the small words that change what a sentence claims, or &quot;correct&quot; product names, commands and technical terms into ordinary words that resemble them.</li><li>Your custom vocabulary now reaches styling too, so spellings you added on purpose survive.</li><li>History is kept forever by default.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.1.0.dmg"
+                sparkle:edSignature="7dISRwoMNM5mbw9yhBr5kEEkWMnusFPLA964mmUC86Q86dzmpyqaTWQdnyOK8hGoIfFR5AG4oaDwuYK3NtimDw=="
+                length="13667189"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.2</title>
             <pubDate>Sun, 02 Aug 2026 23:56:20 +0300</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
@@ -29,17 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.0.1.dmg"
                 sparkle:edSignature="zA8Xcp5Ze4hAmjVnUPH/hceER/vLNJVmWmv6sNs3+nU5+7s9fNwoCWlxF/+1IvsrO12yq53wso3RBEtT4yRgAQ=="
                 length="13612911"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 0.5.5</title>
-            <pubDate>Sat, 11 Apr 2026 01:59:23 +0300</pubDate>
-            <sparkle:version>0.5.5</sparkle:version>
-            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
-            <enclosure
-                url="https://github.com/Ins0mn1aUA/WhisperMe-releases/releases/download/v0.5.5/WhisperMe-0.5.5.dmg"
-                sparkle:edSignature="S/IAgpnRRyXmtzmM2hCOIEcL1W/eX33z1CD5lC2DX+z+gUtzNovIVivqm2r0BhxnKKmefHxsw8579+9JLBfHDg=="
-                length="2852477"
                 type="application/octet-stream"/>
         </item>
     </channel>
