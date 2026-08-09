@@ -5,7 +5,20 @@
         <link>https://github.com/Ins0mn1aUA/WhisperMe-releases</link>
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
-                                <item>
+                                        <item>
+            <title>Version 1.1.1</title>
+            <pubDate>Mon, 10 Aug 2026 01:57:12 +0300</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>More reliable cloud transcription.</b> A filter meant to remove background noise and stray artifacts could also remove real speech, so a sentence sometimes arrived shorter than you said it. Cloud transcription now keeps what you actually said &mdash; on-device transcription was never affected.</li><li><b>AI Styles stay closer to your words.</b> Email, Slack message and Bullet list no longer swap your words for synonyms, add greetings you never dictated, or force a short note into a longer form.</li><li>A long message gets the punctuation dictation never supplies, instead of arriving as one run-on.</li><li>No style will move your text into another language.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.1.1.dmg"
+                sparkle:edSignature="9vxYPbWb2GeuiCqk9ZPuAmP37/CtPa0uK1VAVqQ21k4TloDZT6xuB6MDszKhFzBFOaXs9ftQoUssJxL2A10ZDQ=="
+                length="13671782"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Thu, 06 Aug 2026 13:50:57 +0300</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.0.2.dmg"
                 sparkle:edSignature="9UvRUOIIM6eT7I8hdHQVO7VnHzsWJrpAewXe00SFpAZmCddUul7TS8egHhYZBrg403lqjQU25eeq+SIafqTzCA=="
                 length="13613535"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Sun, 02 Aug 2026 22:49:33 +0300</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Fixes a crash on launch. 1.0.0 quit immediately on startup instead of opening — if nothing happened when you opened Kazhy, this release fixes it. Re-download and replace the app; no settings are lost.</p>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.0.1.dmg"
-                sparkle:edSignature="zA8Xcp5Ze4hAmjVnUPH/hceER/vLNJVmWmv6sNs3+nU5+7s9fNwoCWlxF/+1IvsrO12yq53wso3RBEtT4yRgAQ=="
-                length="13612911"
                 type="application/octet-stream"/>
         </item>
     </channel>
