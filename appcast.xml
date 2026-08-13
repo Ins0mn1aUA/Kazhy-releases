@@ -6,6 +6,19 @@
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
                                         <item>
+            <title>Version 1.1.2</title>
+            <pubDate>Thu, 13 Aug 2026 11:35:00 +0300</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li><b>Your free week is now actually offered.</b> Setup asks you to sign in, and that is what starts seven days of full Premium &mdash; cloud transcription and AI Styles, no card. The week already existed, but nothing ever offered it: unless you went looking for the sign-in yourself it never began.</li><li>Skip the step and the menu bar keeps the offer open.</li><li><b>The paid screens speak your language.</b> Settings, Plans and AI Styles were falling back to English in every language but one &mdash; on the screens you pay on.</li><li>The menu has a direct line for feedback.</li><li>Kazhy stays dark whatever your system appearance is.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.1.2.dmg"
+                sparkle:edSignature="1uGfuruL/MeMZCDJag87rRaplQQgvei5QYixwFlobPFLbkr/ivf1R5ovDaTWPLXY46Xe50VbXSnDh5AyKcA2Cw=="
+                length="13757454"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.1.1</title>
             <pubDate>Mon, 10 Aug 2026 01:57:12 +0300</pubDate>
             <sparkle:version>1.1.1</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.1.0.dmg"
                 sparkle:edSignature="7dISRwoMNM5mbw9yhBr5kEEkWMnusFPLA964mmUC86Q86dzmpyqaTWQdnyOK8hGoIfFR5AG4oaDwuYK3NtimDw=="
                 length="13667189"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.0.2</title>
-            <pubDate>Sun, 02 Aug 2026 23:56:20 +0300</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p><b>Sign-in now shows kazhy.app.</b> The macOS dialog that appears when you sign in with Google or Apple used to name a long, random-looking database address &mdash; the kind of thing you should not approve. It now names <code>auth.kazhy.app</code>.</p><p>Sign-in itself is unchanged and still takes one click.</p>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.0.2.dmg"
-                sparkle:edSignature="9UvRUOIIM6eT7I8hdHQVO7VnHzsWJrpAewXe00SFpAZmCddUul7TS8egHhYZBrg403lqjQU25eeq+SIafqTzCA=="
-                length="13613535"
                 type="application/octet-stream"/>
         </item>
     </channel>
