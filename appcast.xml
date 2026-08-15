@@ -6,6 +6,19 @@
         <description>Most recent updates to WhisperMe</description>
         <language>en</language>
                                         <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Sat, 15 Aug 2026 11:11:22 +0300</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>AI Styles keep your words: product names, technical terms and the small words that change what a sentence claims all survive.</li><li>No more invisible characters that broke when pasted into a terminal or a commit message.</li><li>Styling is faster.</li><li>New styles: Commit message and Shorter.</li><li>Punctuation only and Slack message are retired. If you had one selected, you are now on Polish.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.2.0.dmg"
+                sparkle:edSignature="oUZMDstW+hhmY+e/3E5SxrZ75JaySCKUcfUrj1qpbe9QvOEsdNtiZLOjez/fbZOw5bNRrOWPst3ABh/bsN0XCg=="
+                length="13760254"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.1.2</title>
             <pubDate>Thu, 13 Aug 2026 11:35:00 +0300</pubDate>
             <sparkle:version>1.1.2</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.1.1.dmg"
                 sparkle:edSignature="9vxYPbWb2GeuiCqk9ZPuAmP37/CtPa0uK1VAVqQ21k4TloDZT6xuB6MDszKhFzBFOaXs9ftQoUssJxL2A10ZDQ=="
                 length="13671782"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.1.0</title>
-            <pubDate>Thu, 06 Aug 2026 13:50:57 +0300</pubDate>
-            <sparkle:version>1.1.0</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>Your first week is full Premium.</b> Cloud transcription and AI Styles for seven days after you sign in. No card.</li><li><b>Free gives more.</b> 1000 words a day, your full history, and custom vocabulary — all three used to be limited or Premium-only.</li><li><b>AI Styles keep your words.</b> They no longer swap a word for a synonym, drop the small words that change what a sentence claims, or &quot;correct&quot; product names, commands and technical terms into ordinary words that resemble them.</li><li>Your custom vocabulary now reaches styling too, so spellings you added on purpose survive.</li><li>History is kept forever by default.</li></ul>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.1.0.dmg"
-                sparkle:edSignature="7dISRwoMNM5mbw9yhBr5kEEkWMnusFPLA964mmUC86Q86dzmpyqaTWQdnyOK8hGoIfFR5AG4oaDwuYK3NtimDw=="
-                length="13667189"
                 type="application/octet-stream"/>
         </item>
     </channel>
