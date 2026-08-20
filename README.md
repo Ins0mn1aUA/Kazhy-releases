@@ -1,39 +1,10 @@
-# Kazhy
+# Kazhy releases
 
-macOS menu bar app for voice-to-text using local AI.
+This repository hosts the Sparkle appcast for [Kazhy](https://kazhy.app), a
+macOS menu bar app that turns speech into text.
 
-## Download
+`appcast.xml` is the update feed. Its URL is compiled into every shipped build,
+so this repository must stay public and keep this exact name. Nothing else
+lives here: the app itself is downloaded from the site.
 
-[Latest Release](https://github.com/Ins0mn1aUA/Kazhy-releases/releases/latest)
-
-## Features
-
-- Hold **Fn/Globe** key to record, release to transcribe and paste
-- Local transcription via WhisperKit (OpenAI Whisper on Apple Silicon)
-- Multiple Whisper models (Tiny to Large v3 Turbo)
-- 100+ recognition languages with auto-detection
-- 16 interface languages
-- Favorite languages for quick access
-- Transcription history (Cmd+Shift+H)
-- Audio ducking during recording
-- Auto-updates via Sparkle
-
-## Requirements
-
-- macOS 14.0+ (Sonoma)
-- Apple Silicon (M1/M2/M3/M4)
-
-## Installation
-
-1. Download `.dmg` from [Releases](https://github.com/Ins0mn1aUA/Kazhy-releases/releases)
-2. Drag Kazhy to Applications
-3. Remove quarantine (required on macOS 15+):
-   ```bash
-   xattr -cr /Applications/Kazhy.app
-   ```
-4. Grant **Microphone** and **Accessibility** permissions
-
-## Permissions
-
-- **Microphone** — for recording speech
-- **Accessibility** — for Fn key capture and text pasting (System Settings → Privacy & Security → Accessibility)
+**Download Kazhy → [kazhy.app](https://kazhy.app)**
