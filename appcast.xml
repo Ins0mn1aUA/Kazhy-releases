@@ -6,6 +6,19 @@
         <description>Most recent updates to Kazhy</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.3</title>
+            <pubDate>Sat, 22 Aug 2026 18:38:25 +0300</pubDate>
+            <sparkle:version>1.3.3</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>The orb is smaller and much quieter at rest; while you dictate, a ring around it answers your voice.</li><li>Nothing swaps in the orb's middle any more — no level bars while recording, no glyph flashing during styling.</li><li>Tooltips, the status pill and the picker lists now share one look.</li><li>⌘⇧Y opens the style picker from anywhere.</li><li>Add a replacement rule, not just a word, from the “+” card.</li><li>Dictate into the middle of a sentence without breaking it apart.</li><li>The first syllable is no longer clipped, and the first dictation after a pause no longer waits on a stale token.</li><li>Polish resolves a spoken self-correction; styles stopped inserting em dashes; a dropped connection no longer signs you out.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.3.3.dmg"
+                sparkle:edSignature="o5ZNLffYrY/qy4OsVE7xTl/eMyUBSFSf8OA35ocxVBBcXouis4HvoEwnpZGu6JT4pNl3Jg2qE5phZiFqmSiyCA=="
+                length="14054955"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.3.2</title>
             <pubDate>Thu, 20 Aug 2026 15:31:37 +0300</pubDate>
             <sparkle:version>1.3.2</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.3.1.dmg"
                 sparkle:edSignature="BmKVdAsyqhEOZkozPh1iXIZ3UOZflC0hUYn0s2T08iw9EJAVIfEX0iQ0Oc68Haf0Hc+IS2e1F7+cS9Bjwv9VAA=="
                 length="13991070"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.3.0</title>
-            <pubDate>Wed, 19 Aug 2026 20:01:59 +0300</pubDate>
-            <sparkle:version>1.3.0</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>Your languages, and words the model keeps getting wrong</h3><ul><li><b>No more guessing the language.</b> A wrong guess does not make a typo, it translates the sentence. You name the languages you speak, and the orb's language button switches between them with a click, or with Cmd Shift L from anywhere.</li><li><b>Setup asks which languages, not which language,</b> in the order you pick them, offering the ones your Mac already knows. Settings shows that same order, ready to drag into shape.</li><li><b>Vocabulary is honest about its ceiling.</b> The model reads only twenty to thirty five words before a dictation, so Kazhy measures in the units it counts, shows where you stand, and marks what it cannot send. No word is refused any more.</li><li><b>Replacements</b> fix what the model still writes wrong, after it writes it: a pair of what was heard and what should be written, with no limit on how many you keep.</li><li>Fixed: on a second display, the status label beside the recording orb could appear on the wrong screen.</li></ul>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.3.0.dmg"
-                sparkle:edSignature="/wqcZ/9XT6D37o4TaL301b16cxyETH9CaTEvnNc/m5+cg2quVmuDsdxwODrEchURK6dHB8x7A9h/PJC6GZp7Dg=="
-                length="13993408"
                 type="application/octet-stream"/>
         </item>
     </channel>
