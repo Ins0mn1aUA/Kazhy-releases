@@ -6,6 +6,19 @@
         <description>Most recent updates to Kazhy</description>
         <language>en</language>
         <item>
+            <title>Version 1.3.4</title>
+            <pubDate>Wed, 26 Aug 2026 23:49:01 +0300</pubDate>
+            <sparkle:version>1.3.4</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>The ORIGINAL half of a history card now shows what you actually said, with everything an AI Style removed struck through.</li><li>A replacement you add reaches re-style and retry too; one you delete stops rewriting old dictations.</li><li>The card shown when your free week ends quotes your own words, not your replacement list.</li></ul>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-1.3.4.dmg"
+                sparkle:edSignature="9lTf0S+0IA5V3X2tDQ+hpWrOFlX3yMiv+CR5lFMPIhxS7HbfIVsh71ULylWui2YdpxaTD0XVAFFR9gp3e5AAAQ=="
+                length="14057762"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.3.3</title>
             <pubDate>Sat, 22 Aug 2026 18:38:25 +0300</pubDate>
             <sparkle:version>1.3.3</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.3.2.dmg"
                 sparkle:edSignature="gdKRyu3iEZeavL2GwuDQ5uT7bGhHH3cj4YEE3cXHJ1JLEZ91KkHeBBbjLDN+pfcFJ18QiVv4RxEPA9ghjuHpBA=="
                 length="13994866"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.3.1</title>
-            <pubDate>Thu, 20 Aug 2026 05:29:50 +0300</pubDate>
-            <sparkle:version>1.3.1</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li>One heading style and one spacing rhythm across all ten Settings screens, and the window keeps its fixed width instead of stretching.</li><li>A long list of replacements no longer traps the page behind it.</li><li>Changing the interface language now re-translates the screen you are looking at, not only its title.</li><li>History marks only the letters that changed rather than the whole word.</li><li>On the Language screen, Return switches to the language once the search has narrowed to one, and the highlight no longer sticks to rows you scroll past.</li><li>The Formatting screen scrolls.</li></ul>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.3.1.dmg"
-                sparkle:edSignature="BmKVdAsyqhEOZkozPh1iXIZ3UOZflC0hUYn0s2T08iw9EJAVIfEX0iQ0Oc68Haf0Hc+IS2e1F7+cS9Bjwv9VAA=="
-                length="13991070"
                 type="application/octet-stream"/>
         </item>
     </channel>
