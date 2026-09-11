@@ -6,6 +6,19 @@
         <description>Most recent updates to Kazhy</description>
         <language>en</language>
         <item>
+            <title>Version 2.0.0</title>
+            <pubDate>Fri, 11 Sep 2026 05:09:50 +0300</pubDate>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Kazhy is free now, all of it. No subscription, no account, no trial, no daily word limit.</p><p>Cloud transcription and AI Styles run on a Groq API key you create yourself and paste into Settings. It costs nothing on Groq&#8217;s free tier, and the ceiling there is two hours of audio in any hour, which ordinary dictation never reaches.</p><p>If you had Premium, the cloud you were paying for has been shut down, and this is what replaces it: the same models, faster, on your own account instead of ours. Your audio goes from your Mac straight to Groq, through nothing of ours.</p><p>Skip the key and nothing breaks. Transcription stays on your Mac the way it always did, and your history, vocabulary and replacements are untouched.</p><p>One thing worth saying plainly, because the setup screen that says it only appears on a fresh install: while Kazhy runs it sends a few small anonymous messages a day. They carry a random identifier for this installation, the app version, your interface language, and how many dictations you made. Nothing you said, ever. You can turn them off in Settings.</p>]]></description>
+            <enclosure
+                url="https://kazhy.app/downloads/Kazhy-2.0.0.dmg"
+                sparkle:edSignature="voGzaTaMZB/sX/gtVVcyJ73VdscpoOpOy1zrJuNVHwVs90nrxQykux8VwvNQUVtCZBS6J9b/pKvOJ7jOjsG8Ag=="
+                length="13743445"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.3.4</title>
             <pubDate>Wed, 26 Aug 2026 23:49:01 +0300</pubDate>
             <sparkle:version>1.3.4</sparkle:version>
@@ -29,19 +42,6 @@
                 url="https://kazhy.app/downloads/Kazhy-1.3.3.dmg"
                 sparkle:edSignature="o5ZNLffYrY/qy4OsVE7xTl/eMyUBSFSf8OA35ocxVBBcXouis4HvoEwnpZGu6JT4pNl3Jg2qE5phZiFqmSiyCA=="
                 length="14054955"
-                type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>Version 1.3.2</title>
-            <pubDate>Thu, 20 Aug 2026 15:31:37 +0300</pubDate>
-            <sparkle:version>1.3.2</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<ul><li><b>A shorter wait after you let the key go.</b> The session that authorises a cloud upload is now renewed while you are still speaking, so the only thing left when you finish is sending the audio. A dictation that stays on your Mac never touches the network.</li><li>Kazhy tells you which version it is running: beside Check for Updates in the menu, and on the Help screen.</li></ul>]]></description>
-            <enclosure
-                url="https://kazhy.app/downloads/Kazhy-1.3.2.dmg"
-                sparkle:edSignature="gdKRyu3iEZeavL2GwuDQ5uT7bGhHH3cj4YEE3cXHJ1JLEZ91KkHeBBbjLDN+pfcFJ18QiVv4RxEPA9ghjuHpBA=="
-                length="13994866"
                 type="application/octet-stream"/>
         </item>
     </channel>
